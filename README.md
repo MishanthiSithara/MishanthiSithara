@@ -4,8 +4,8 @@ Welcome to My Github Profile!
 
 - 👋 Hi, I’m Sithara
 
-- 🌱 I’m currently learning for a Higher National Diploma in Software Engineering.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I'm currently studying for a Higher National Diploma at SLIATE Kegalle, Sri Lanka. 
+- 💞️ 
 - 📫 How to reach me mishanthisithara@gmail.com ⚡
 
 
