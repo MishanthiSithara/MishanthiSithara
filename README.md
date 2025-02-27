@@ -2,10 +2,10 @@ Welcome to My Github Profile!
 
 <p> <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 250px></picture> </p>
 
-- 👋 Hi, I’m Sithara
+- 👋 Hi, I’m Sithara  💞️
 
-- 🌱 I'm currently studying for a Higher National Diploma at SLIATE Kegalle, Sri Lanka. 
-- 💞️ 
+- 🌱 I'm currently studying for a Higher National Diploma at SLIATE Kegalle, Sri Lanka.
+- 
 - 📫 How to reach me mishanthisithara@gmail.com ⚡
 
 
