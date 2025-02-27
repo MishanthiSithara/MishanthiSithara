@@ -1,6 +1,6 @@
-                                                     Welcome to My Github Profile!
+Welcome to My Github Profile!
 
-<p align="center"> <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 250px></picture> </p>
+<p> <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 250px></picture> </p>
 
 - 👋 Hi, I’m Sithara
 
