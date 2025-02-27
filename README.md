@@ -1,4 +1,4 @@
-Welcome to My Github Profile!
+                                                     Welcome to My Github Profile!
 
 <p align="center"> <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 250px></picture> </p>
 
@@ -7,8 +7,8 @@ Welcome to My Github Profile!
 - 🌱 I’m currently learning for a Higher National Diploma in Software Engineering.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mishanthisithara@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄
+- ⚡ 
 
 <!---
 MishanthiSithara/MishanthiSithara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
