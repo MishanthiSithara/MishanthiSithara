@@ -1,4 +1,4 @@
-Welcome to My Github Profile!
+# H1 Welcome to My Github Profile!
 
 <p> <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 250px></picture> </p>
 
