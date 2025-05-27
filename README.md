@@ -6,7 +6,7 @@
 
 - 🌱 I'm currently studying for a Higher National Diploma at SLIATE Kegalle, Sri Lanka.
  
-- 📫 How to reach me mishanthisithara@gmail.com ⚡
+- 📫 How to reach me sitharamishanthi@gmail.com ⚡
 
 
 <!---
